@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khang Duy 👋</h1>
+<h1 align="center">Hi, I'm Duy Khang 👋</h1>
 
 <p align="center">
   <em>AI Enthusiast | Computer Science Student @ HCMUT | Passionate about Deep Learning and Data Analytics</em>
@@ -8,12 +8,36 @@
 
 ### 👨‍🎓 About Me
 
+- 🧑 Born in **2005**, currently living in **Ho Chi Minh City, Vietnam**
 - 🎓 Currently pursuing a Bachelor's degree in **Computer Science** at **HCMUT (Ho Chi Minh City University of Technology)**
 - 🤖 Focused on **Machine Learning**, **AI Agents**, and **Data Analytics**
 - 💻 Comfortable with **TensorFlow**, **PyTorch**, and C++,
 - 🌐 Experienced with **Java**, **Node.JS** for building web and mobile applications
 - 🛠️ Actively looking for **part-time internship opportunities in AI Engineering**
 - 📫 Reach me at: **khang.buitranduycse@hcmut.edu.vn**
+
+---
+---
+
+### 🚀 Projects
+
+- **[OCR_text_recognition](https://github.com/khangbkk23/OCR_text_recognition)**  
+  Applied computer vision techniques to extract text from images using OpenCV and Tesseract.
+
+- **[caro_chess_AI](https://github.com/khangbkk23/caro_chess_AI)**  
+  Built an AI to play Caro (Gomoku) using heuristic evaluation and basic minimax logic.
+
+- **[FoodVisionBig](https://github.com/khangbkk23/FoodVisionBig)**  
+  A computer vision model that classifies food images using convolutional neural networks (CNNs). Built with PyTorch and trained on real-world food datasets.
+
+- **[FlappyBirdUsingRLWithPytorch](https://github.com/khangbkk23/FlappyBirdUsingRLWithPytorch)**  
+  An implementation of a Flappy Bird AI using Reinforcement Learning (DQN) with PyTorch — first exploration into deep RL.
+
+- **[CambridgeDictCrawlerForStudying](https://github.com/khangbkk23/CambridgeDictCrawlerForStudying)**  
+  A Python web crawler to fetch definitions, synonyms, and word types from Cambridge Dictionary for language learning.
+
+- **[ResearchCLearning](https://github.com/khangbkk23/ResearchCLearning)**  
+  Ongoing research/code snippets related to contrastive learning and self-supervised representation learning.
 
 ---
 
