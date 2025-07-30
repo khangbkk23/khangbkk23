@@ -11,7 +11,11 @@
 - 🧑 Born in **2005**, currently living in **Ho Chi Minh City, Vietnam**
 - 🎓 Currently pursuing a Bachelor's degree in **Computer Science** at **HCMUT (Ho Chi Minh City University of Technology)**
 - 🤖 Focused on **Machine Learning**, **AI Agents**, and **Data Analytics**
-- 💻 Comfortable with **TensorFlow**, **PyTorch**, **Scikit-learn**
+- 💻 Comfortable with:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - 🌐 Experienced with **Java**, **Node.JS** for building web and applications
 - 🛠️ Actively looking for **part-time internship opportunities in AI Engineering**
 - 📫 Reach me at: **khang.buitranduycse@hcmut.edu.vn**
@@ -68,7 +72,8 @@
 ### 🤝 Connect with Me
 
 - 🌍 [GitHub](https://github.com/khangbkk23)
-- 💬 [Facebook](https://www.facebook.com/duykhang812005/)
+- 💬 [Facebook](https://www.facebook.com/duykhang812005/)  
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
 - 📧 Email: **khang.buitranduycse@hcmut.edu.vn**
 - 🧠 Open to collaborations and part-time internship offers in **AI/ML Engineering**
 
