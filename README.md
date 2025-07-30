@@ -21,6 +21,9 @@
 
 ### 🚀 Projects
 
+- **[GridWorldWithRL](https://github.com/khangbkk23/GridWorldWithRL)**  
+  Deep Q-Learning agent implementation for various custom GridWorld and OpenAI Gym environments. Includes visualization, flexible environment configs, and modular design using PyTorch.
+  
 - **[OCR_text_recognition](https://github.com/khangbkk23/OCR_text_recognition)**  
   Applied computer vision techniques to extract text from images using OpenCV and Tesseract.
 
