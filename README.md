@@ -9,8 +9,8 @@
 ### 👨‍🎓 About Me
 
 - 🧑 Born in **2005**, currently living in **Ho Chi Minh City, Vietnam**
-- 🎓 Currently pursuing a Bachelor's degree in **Computer Science** at **HCMUT (Ho Chi Minh City University of Technology)**
-- 🤖 Focused on **Machine Learning**, **AI Agents**, and **Data Analytics**
+- 🎓 Currently pursuing a Engineer's degree in **Computer Science** at **HCMUT (University of Technology - Vietnam National University - HCMC)**
+- 🤖 Focused on **Machine Learning (DL, RL)**, **AI Agents**, and **Model Optimization**
 - 💻 Comfortable with:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
