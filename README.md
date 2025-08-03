@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Duy Khang 👋</h1>
 
 <p align="center">
-  <em>AI Enthusiast | Computer Science Student @ HCMUT | Passionate about *AI Modelling* and *AI Agents*</em>
+  <em>AI Enthusiast | Computer Science Student @ HCMUT | Passionate about AI Modelling and AI Agents</em>
 </p>
 
 ---
