@@ -1,24 +1,41 @@
-<h1 align="center">Hi, I'm Duy Khang 👋</h1>
+<h1 align="center">Hi, I'm Khang Bui Tran Duy 👋</h1>
 
 <p align="center">
-  <em>AI Enthusiast | Computer Science Student @ HCMUT | Passionate about AI Modelling and AI Agents</em>
+  <em>AI & Data Science Enthusiast | Computer Science Student @ HCMUT | Passionate about MLOps & Data Analytics</em>
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 
-- 🧑 Born in **2005**, currently living in **Ho Chi Minh City, Vietnam**
-- 🎓 Currently pursuing a Engineer's degree in **Computer Science** at **HCMUT (University of Technology - Vietnam National University - HCMC)**
-- 🤖 Focused on **Machine Learning (DL, RL)**, **AI Agents**, **AI Modelling (NLP, CV)**, and **Model Optimization**
+- 🧑 Born in **2005** in Dong Thap, currently based in **Ho Chi Minh City, Vietnam**.
+- 🎓 Pursuing an Engineer's degree in **Computer Science (Class of 2023)** at **HCMUT** (Student ID: **2311402**).
+- 🤖 Core Focus: **Machine Learning (DL, RL)**, **Data Analytics**, **Time-Series Analysis**, and **MLOps architectures**.
 - 💻 Comfortable with:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- 🌐 Experienced with **Java**, **Node.JS** for building web and applications
-- 🛠️ Actively looking for **part-time internship opportunities in AI Engineering**
-- 📫 Reach me at: **buitranduykhang2005@gmail.com**
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- 🛠️ Experienced with **TensorFlow, PyTorch, Scikit-learn**, and backend frameworks like **Django** for deploying robust AI models.
+- 🌐 Language Proficiency: **English** and **Chinese (HSK 4: 280/300)**.
+- 🎯 Actively seeking **part-time internship opportunities in AI Engineering / Data Analytics**.
+- 📫 Reach me at: **buitranduykhang2005@gmail.com** or **khang.buitranduycse@hcmut.edu.vn**
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. Agentic RAG Engine: Secure Legal Document Analysis
+* **Technologies:** `Python`, `LangGraph`, `FAISS`, `Django`, `Docker`, `JWT Auth`
+* **Description:** Engineered an enterprise-grade Question-Answering system using an Agentic Workflow to autonomously retrieve, grade, and generate responses from high-density datasets. Implemented stateless JSON Web Token (JWT) security and Build-time Model Caching to deploy seamlessly on Hugging Face Spaces without Out-of-Memory (OOM) exceptions.
+
+#### 2. Autonomous Control via Reinforcement Learning
+* **Technologies:** `Python`, `PyTorch`, `Mathematics`
+* **Description:** Designed and trained advanced Reinforcement Learning models utilizing Deep Deterministic Policy Gradient (DDPG) and Actor-Critic architectures. Focused on optimizing continuous action spaces and policy evaluation in complex simulated environments.
+
+#### 3. Spatio-Temporal Time-Series Modeling
+* **Technologies:** `Python`, `Pandas`, `Scikit-learn`, `Data Analytics`
+* **Description:** Developed a comprehensive predictive modeling pipeline focusing on complex spatio-temporal data. Engineered advanced features to analyze multi-variate time-series patterns, applying rigorous statistical and machine learning methodologies to extract actionable insights.
 
 ---
 
@@ -51,7 +68,6 @@
 - 🌍 [GitHub](https://github.com/khangbkk23)
 - 💬 [Facebook](https://www.facebook.com/duykhang812005/)  
   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-- 📧 Email: **khang.buitranduycse@hcmut.edu.vn**
-- 🧠 Open to collaborations and part-time internship offers in **AI/ML Engineering**
+- 🧠 Open to academic collaborations and professional offers in **AI/ML Engineering** and **Data Science**.
 
 ---
