@@ -18,30 +18,7 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - 🌐 Experienced with **Java**, **Node.JS** for building web and applications
 - 🛠️ Actively looking for **part-time internship opportunities in AI Engineering**
-- 📫 Reach me at: **khang.buitranduycse@hcmut.edu.vn**
-
----
----
-
-### 🚀 Projects
-
-- **[GridWorldWithRL](https://github.com/khangbkk23/GridWorldWithRL)**  
-  Deep Q-Learning agent implementation for various custom GridWorld and OpenAI Gym environments. Includes visualization, flexible environment configs, and modular design using PyTorch.
-  
-- **[OCR_text_recognition](https://github.com/khangbkk23/OCR_text_recognition)**  
-  Applied computer vision techniques to extract text from images using OpenCV and Tesseract.
-
-- **[caro_chess_AI](https://github.com/khangbkk23/caro_chess_AI)**  
-  Built an AI to play Caro (Gomoku) using heuristic evaluation and basic minimax logic.
-
-- **[FoodVisionBig](https://github.com/khangbkk23/FoodVisionBig)**  
-  A computer vision model that classifies food images using convolutional neural networks (CNNs). Built with PyTorch and trained on real-world food datasets.
-
-- **[FlappyBirdUsingRLWithPytorch](https://github.com/khangbkk23/FlappyBirdUsingRLWithPytorch)**  
-  An implementation of a Flappy Bird AI using Reinforcement Learning (DQN) with PyTorch — first exploration into deep RL.
-
-- **[ResearchCLearning](https://github.com/khangbkk23/ResearchCLearning)**  
-  Ongoing research/code snippets related to continual learning for industrial applications.
+- 📫 Reach me at: **buitranduykhang2005@gmail.com**
 
 ---
 
