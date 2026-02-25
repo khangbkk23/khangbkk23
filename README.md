@@ -17,8 +17,8 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - 🛠️ Experienced with **TensorFlow, PyTorch, Scikit-learn**, and backend frameworks like **Django** for deploying robust AI models.
-- 🌐 Language Proficiency: **English** and **Chinese (HSK 4: 280/300)**.
-- 🎯 Actively seeking **part-time internship opportunities in AI Engineering / Data Analytics**.
+- 🌐 Language Proficiency: **English (TOEIC 855/990)**.
+- 🎯 Actively seeking **part-time internship opportunities in AI Engineering/ Data Science**.
 - 📫 Reach me at: **buitranduykhang2005@gmail.com** or **khang.buitranduycse@hcmut.edu.vn**
 
 ---
