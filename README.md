@@ -41,16 +41,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khangbkk23&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suemy19710&theme=github_dark)
 ---
 
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="[http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khangbkk23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
