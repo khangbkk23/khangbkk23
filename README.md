@@ -13,7 +13,7 @@
 - 🤖 **Core Focus:** Machine Learning, Deep Learning, Computer Vision, NLP, and Reinforcement Learning.
 - 🔬 **Research:** Optimization of Continual Learning Strategies (Nested Learning & Continuum Memory Systems).
 - 🎯 **Goals:** Seeking an AI Engineer Internship (Short-term) to build scalable systems, with the ultimate aim of becoming a core AI Engineer and pursuing advanced international education (Long-term).
-- 🌐 **Language:** English (TOEIC 855) - Capable of conducting technical discussions and cross-cultural collaboration.
+- 🌐 **Language:** English (TOEIC 855)
 - 📫 **Reach me at:** buitranduykhang2005@gmail.com or khang.buitranduycse@hcmut.edu.vn
 
 ---
