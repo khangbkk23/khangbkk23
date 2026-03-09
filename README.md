@@ -60,7 +60,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khangbkk23&theme=github_dark" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangbkk23&theme=github_dark" alt="Languages" />
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khangbkk23&theme=github_dark" alt="Top Languages" />
+  [![Khang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br>
   <img src="https://streak-stats.demolab.com?user=khangbkk23&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
