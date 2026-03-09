@@ -74,20 +74,25 @@
 <p align="left">
 
 <a href="https://github.com/khangbkk23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-khangbkk23-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<br>
+
+<a href="https://www.linkedin.com/in/khangbkk23">
+  <img src="https://img.shields.io/badge/LinkedIn-khangbkk23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br>
 
 <a href="https://www.facebook.com/duykhang812005/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-duykhang812005-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+<br>
 
 <a href="mailto:buitranduykhang2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-buitranduykhang2005-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 🧠 Open to **academic collaborations** and **AI/ML Engineering opportunities**.
-
-
 ---
