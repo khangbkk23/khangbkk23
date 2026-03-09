@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khang Bui Tran Duy 👋</h1>
 
 <p align="center">
-  <em>AI Engineer & Data Scientist | Computer Science Student @ HCMUT | Passionate about R&D</em>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Researcher;Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+RL&center=true&width=500&height=50">
 </p>
 
 ---
