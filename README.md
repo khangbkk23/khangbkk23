@@ -55,23 +55,39 @@
 ---
 
 ### 📊 GitHub Analytics
+<p align="center">
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khangbkk23&theme=github_dark" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khangbkk23&theme=github_dark" alt="Languages" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=khangbkk23&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
+
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
 
 ---
 
 ### 🤝 Connect with Me
-- 🌍 [GitHub](https://github.com/khangbkk23)
-- 💬 [Facebook](https://www.facebook.com/duykhang812005/)  
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-- 🧠 Open to academic collaborations and professional offers in **AI/ML Engineering** and **Data Science**.
+
+<p align="left">
+
+<a href="https://github.com/khangbkk23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/duykhang812005/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:buitranduykhang2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+🧠 Open to **academic collaborations** and **AI/ML Engineering opportunities**.
 
 
 ---
