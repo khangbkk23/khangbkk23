@@ -68,13 +68,26 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight"/>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight"/>
+
+
+
+<img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
+
+
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
 
 ---
 
