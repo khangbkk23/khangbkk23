@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Khang Bui Tran Duy 👋</h1>
 
 <p align="center">
+  <a href="https://kelvindikhang.id.vn" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-kelvindikhang.id.vn-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Researcher;Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+RL&center=true&width=500&height=50">
 </p>
 
@@ -20,21 +26,27 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **AI/ML & Data:** ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-- **Backend & MLOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-- **Databases & Tools:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Programming Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / Deep Learning Frameworks**
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**MLOps & Backend Architecture**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
@@ -56,16 +68,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ---
 
