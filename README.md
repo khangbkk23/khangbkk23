@@ -68,28 +68,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight"/>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight"/>
-
-
-
-<img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=khangbkk23&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangbkk23&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
 </p>
 
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
-
----
 
 ### 🤝 Connect with Me
 
@@ -117,4 +101,10 @@
 </p>
 
 🧠 Open to **academic collaborations** and **AI/ML Engineering opportunities**.
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khangbkk23&label=Profile%20Views&color=22C55E&style=flat-square" alt="Profile Views" />
+</p>
+
 ---
