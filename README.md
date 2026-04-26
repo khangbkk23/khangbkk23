@@ -73,7 +73,7 @@
   <img src="https://streak-stats.demolab.com/?user=khangbkk23&theme=tokyonight"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangbkk23&theme=react-dark&hide_border=true&area=true"/>
+---
 
 ### 🤝 Connect with Me
 
